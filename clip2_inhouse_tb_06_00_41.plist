@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://bluceantest.github.io/clip2_inhouse_tb_06_00_41.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.kt.MOCA</string>
+				<key>bundle-version</key>
+				<string>06.00.41</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>Clip2-inHouse-tb_test</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
