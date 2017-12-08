@@ -1,4 +1,4 @@
-﻿#css_tabs {
+#css_tabs {
     font-family:'nanumgothic', '나눔고딕', 'malgun gothic', '맑은 고딕', 'dotum', '돋움', sans-serif
 }
 
@@ -55,6 +55,6 @@
 #css_tabs .tab1_content, #css_tabs .tab2_content, #css_tabs .tab3_content {
     padding:2em;
     border:1px solid #ddd;
-    width:70%;
+    width:80%;
     height:100%
 }
